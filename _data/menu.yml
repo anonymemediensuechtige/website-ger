@@ -1,38 +1,33 @@
-# For documentation on this file, see:
-# https://github.com/riggraz/no-style-please#customize-the-menu
-
 entries:
-  - title: info
+  - title: Anonyme Mediensüchtige ist eine 12-Schritte-Gemeinschaft von Menschen, die sich gegenseitig bei der Genesung von der zwanghaften Nutzung aller Medien unterstuetzen.
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: Wir freuen uns, dass Du uns gefunden hast. Wie Du suchten auch wir nach einem Ausweg aus dem Medienwahnsinn. Wir probierten eine Strategie nach der anderen aus, um unsere Mediensucht zu heilen, fielen aber immer wieder in zwanghaftes, obessives Verhalten zurück.
+      - title: Dann fanden wir die Lösung!
+      - title: Als wir erkannten, dass Mediensucht genau wie Alkohol- oder Drogensucht ist, begannen wir, die bewährten Anweisungen der Gründer der Anonymen Alkoholiker anzuwenden, und es funktionierte wirklich. Willkommen bei den Anonymen Mediensuechtigen und unserer Lösung.
+      - title: Wir sind die deutschsprachige Gruppe von der intentationalen Gemeinschaft <a href=https://www.mediaaddictsanonymous.org/>Media Addicts Anonymous</a>. Wir unterstützen alle Formen der Genesung von Medien, das beinhaltet Abstinenz von elektronischen Medien, Filmen, Radio, Zeitungen, Zeitschriften, Büchern und Musik. Sowie von sozialen Medien, Smartphones, Video- oder Audio-Streaming-Inhalten, Games, Spielen, Nachrichten, Pornografie, Dating-Apps, Online-Recherche, Online-Shopping oder anderen digitalen Aktivitäten.
 
-  - title: all posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
-
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
-
-  - title: rss
-    url: feed.xml
-  
-  - title: another list
+  - title: Deutschsprachige Meetings
     entries:
-      - title: with subitems
+      - title: Es findet derzeit jeden Sonntag um 20 Uhr deutscher Zeit ein Meeting auf <a href=https://us06web.zoom.us/j/87859679479?pwd=Z9fhcaGUzaRsk5vbMjhH2Ts7nsb8T4.1>Zoom</a> statt.
+      - title: Zusätzlich zu unseren deutschsprachigen Treffen kannst Du auch unseren <a href=https://www.mediaaddictsanonymous.org/meetings>vollständigen Zeitplan der internationalen Treffen</a> ansehen. 
+
+  - title: Ja, ich habe den Wunsch, meine Mediensucht zu heilen!
+    entries:
+      - title: In Deutschland erreichen Sie uns über Whatsapp.
+      - title: Für schnelle Hilfe per E-Mail steht Ihnen unser Erste-Hilfe-Team zur Verfügung.
+
+  - title: Ich möchte mehr über die Anonymen Mediensüchtigen wissen.
+    entries:
+      - title: Wie es funktioniert aus dem Buch Anonyme Alkoholiker
+      - title: Häufige Fragen und Antworten
+      - title: Lebensgeschichten
+
+  - title: Materialien
+    entries:
+      - title: <a href=medien_fasten>Plan fürs Medienfasten</a>
+      - title: Symptome der Mediensucht
+      - title: Wenn du einen Slip hattest
         entries:
-          - title: with subsubitems
+          - title: <a href=slip_worksheet>Slip Worksheet</a>
           - title: example page
             url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
